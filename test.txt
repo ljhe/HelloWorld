@@ -1,6 +1,9 @@
-Ê¹ÓÃWindows°æGitÌá½»
+ä½¿ç”¨Windowsç‰ˆGitæäº¤
 
-Ìá½»ÃüÁî
+æäº¤å‘½ä»¤
 git add .
-git commit -m "×¢ÊÍ"
-git push origin master  orignÊÇÌá½»µØÖ·
+git commit -m "æ³¨é‡Š"
+git push origin master  orignæ˜¯æäº¤åœ°å€
+
+
+ä¸‹è½½ä»£ç åˆ°æœ¬åœ°
