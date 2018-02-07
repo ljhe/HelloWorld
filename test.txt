@@ -5,3 +5,7 @@ local
 get remote
 
 1.stage changed
+
+
+git clone https://github.com/ljhe/AutoSploit.git
+fork他人代码之后，clone下载代码到本地
