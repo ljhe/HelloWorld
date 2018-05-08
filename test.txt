@@ -1,4 +1,4 @@
-http://blog.csdn.net/qq_31852701/article/details/52944312
+﻿http://blog.csdn.net/qq_31852701/article/details/52944312
 
 local
 
@@ -9,3 +9,5 @@ get remote
 
 git clone https://github.com/ljhe/AutoSploit.git
 fork他人代码之后，clone下载代码到本地
+
+使用Windows版本的 source tree软件
